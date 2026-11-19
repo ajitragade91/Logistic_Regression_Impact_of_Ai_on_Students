@@ -138,7 +138,7 @@ PAGE = """
 <body>
 <div class="aurora"><span></span><span></span><span></span></div>
 <main>
-  <h1>GenAI Impact Predictor</h1>
+  <h1>GenAI Impact On Student Predictor</h1>
   <p class="sub">Fill in a student profile and the logistic regression model estimates whether the outcome level is High, Medium or Low.</p>
 
   <div class="layout">
